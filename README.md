@@ -1,4 +1,4 @@
-# ImageMosaicApp
+# Image Mosaic App
 
 From a set of images sharing common parts, compute a panorama.
 
